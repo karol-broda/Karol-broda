@@ -22,4 +22,3 @@ I'm a passionate developer, always eager to learn new technologies and improve m
 - LinkedIn: [https://www.linkedin.com/in/karol-david-broda-a7978926b/](https://www.linkedin.com/in/karol-david-broda-a7978926b/)
 
 Feel free to reach out if you want to chat about tech, need some advice, or just want to say hi. I'm always happy to meet new people!
-
