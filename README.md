@@ -8,9 +8,8 @@ I'm a passionate developer, always eager to learn new technologies and improve m
 ## 🔧 Technologies & Tools
 
 - **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Express.js
-- **Databases**: MongoDB, PostgreSQL
-- **Tools**: Docker, Git, CI/CD
+- **Frameworks**: React, Node.js
+- **Databases**: MS Access, MySql
 
 ## 📈 GitHub Stats
 
