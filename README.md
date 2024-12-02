@@ -7,8 +7,8 @@ I'm a passionate developer, always eager to learn new technologies and improve m
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: C, JavaScript, Python, Rust, Java
-- **Frameworks**: FastAPI, Next.JS, React, Node.js
+- **Languages**: C, Python, JavaScript, Rust, Java
+- **Frameworks**: FastAPI, Next.JS, React, Node.js, Deno
 - **Databases**: Postgresql, MS Access
 
 ## 📈 GitHub Stats
