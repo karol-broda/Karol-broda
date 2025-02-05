@@ -13,9 +13,9 @@ I'm a passionate developer, always eager to learn new technologies and improve m
 
 ## 📈 GitHub Stats
 
-[![Karol's GitHub stats](https://github-readme-stats.vercel.app/api?username=karol-broda&theme=tokyonight&show_icons=true)](https://github.com/karol-broda)
+[![Karol's GitHub stats](https://github-readme-stats.vercel.app/api?username=karol-broda&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_icons=true)](https://github.com/karol-broda)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karol-broda&theme=tokyonight&layout=compact)](https://github.com/karol-broda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karol-broda&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&layout=compact)](https://github.com/karol-broda)
 
 ## 📮 Get in touch
 
