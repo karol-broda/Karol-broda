@@ -1,25 +1,73 @@
-# Hello, I'm Karol Broda! 👋
+# hey there, i'm karol 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=karol-broda&color=blueviolet)
-[![LinkedIn connect](https://img.shields.io/badge/Connect-karolbroda-blue?logo=linkedin)](https://www.linkedin.com/in/karol-david-broda-a7978926b/)
+![profile views](https://komarev.com/ghpvc/?username=karol-broda&color=blueviolet)
 
-I'm a passionate developer, always eager to learn new technologies and improve my skills. I love building projects,and being part of the tech community.
+i build things that actually work (most of the time). passionate about creating simple, reliable tools that solve real problems without the unnecessary complexity.
 
-## 🔧 Technologies & Tools
+## 🚀 what i'm building
 
-- **Languages**: C, Python, JavaScript, Rust, Java
-- **Frameworks**: FastAPI, Next.JS, React, Node.js, Deno
-- **Databases**: Postgresql, MS Access
+- [**funnel**](https://github.com/karol-broda/funnel): a pretty fast tunnel service written in go - because sometimes you need to expose localhost to the world
+- [**catalyst**](https://github.com/karol-broda/catalyst): a typesafe python sql builder - making database queries less painful, one type at a time (even in python)
+- [**zubr**](https://github.com/karol-broda/zubr): a desktop application for managing and working with postgres databases - because somtimes you dont want to put in 15 commmands from muscle memory to inpect a database
 
-## 📈 GitHub Stats
+## 🛠 my toolbox
 
-[![Karol's GitHub stats](https://github-readme-stats.vercel.app/api?username=karol-broda&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_icons=true)](https://github.com/karol-broda)
+**systems & backend**
+- c, go, rust
+- python + fastapi
+- node.js (and recently some bun) + fastify, hono
+- postgresql + drizzle
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karol-broda&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&layout=compact)](https://github.com/karol-broda)
+**frontend & mobile**
+- javascript/typescript
+- react + next.js
+- react native/expo but without eas
+- tailwind css
 
-## 📮 Get in touch
+**tools**
+- docker
+- kubernetes (but only when it is really needed, not when a product has only 100 users)
+- gh actions
 
-- LinkedIn: [https://www.linkedin.com/in/karol-david-broda-a7978926b/](https://www.linkedin.com/in/karol-david-broda-a7978926b/)
-- E-Mail: [me@karolbroda.com](mailto:me@karolbroda.com)
+## 🎯 development philosophy
 
-Feel free to reach out if you want to chat about tech or just want to say hi. I'm always happy to meet new people!
+- start simple, stay simple
+- solve real problems, not imaginary ones
+- boring technology that works > shiny new framework
+- if it takes more than 5 minutes to explain, it's probably too complex
+
+## 🎨 when i'm not coding
+
+- probably reading about why someone rewrote their entire stack in rust
+- wondering if that new database really is "10x faster"
+- actually touching grass (revolutionary concept, i know)
+
+## 🤝 open to
+
+- building stuff that people actually use
+- debating whether that abstraction is worth the complexity
+- contributing to projects that solve problems i actually have
+- 
+## 🌱 currently exploring
+
+- the art of building features that users actually want
+- why every "revolutionary" framework solves the same 5 problems
+- the eternal quest for the perfect development environment
+
+## 📊 github wrapped
+
+[![karol's github stats](https://github-readme-stats.vercel.app/api?username=karol-broda&hide=java,ms+access&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&show_icons=true)](https://github.com/karol-broda)
+
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karol-broda&hide=java,ms+access&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&layout=compact)](https://github.com/karol-broda)
+
+## 💬 let's connect
+
+whether you want to discuss code, collaborate on projects, or just say hi:
+
+- 💼 [linkedin](https://www.linkedin.com/in/karol-david-broda-a7978926b/)
+- 📧 [me@karolbroda.com](mailto:me@karolbroda.com)
+- 🌐 [karolbroda.com](https://karolbroda.com)
+
+---
+
+*ps: if you made it this far, you deserve a cookie 🍪*
