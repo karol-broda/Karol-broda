@@ -8,7 +8,7 @@ i build things that actually work (most of the time). passionate about creating 
 
 - [**funnel**](https://github.com/karol-broda/funnel): a pretty fast tunnel service written in go - because sometimes you need to expose localhost to the world
 - [**catalyst**](https://github.com/karol-broda/catalyst): a typesafe python sql builder - making database queries less painful, one type at a time (even in python)
-- [**zubr**](https://github.com/karol-broda/zubr): a desktop application for managing and working with postgres databases - because somtimes you dont want to put in 15 commmands from muscle memory to inpect a database
+- [**zubr**](https://github.com/karol-broda/zubr): a desktop application for managing and working with postgres databases - because somtimes you dont want to put in 15 commmands from muscle memory to inspect a database
 
 ## 🛠 my toolbox
 
