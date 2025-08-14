@@ -66,7 +66,6 @@ whether you want to discuss code, collaborate on projects, or just say hi:
 
 - 💼 [linkedin](https://www.linkedin.com/in/karol-david-broda-a7978926b/)
 - 📧 [me@karolbroda.com](mailto:me@karolbroda.com)
-- 🌐 [karolbroda.com](https://karolbroda.com)
 
 ---
 
